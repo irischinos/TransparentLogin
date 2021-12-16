@@ -1,4 +1,17 @@
 # TransparentLogin
-Practising CSS3
+<h3> Knowledge acquired in #Codeberry </h3>
 
-You can see the final result here : https://irischinos.github.io/TransparentLogin/
+<br>
+
+Improving HTML & CSS creating a login :)
+
+* Personal login
+* Practising password
+* Is not interactive yet
+* Pic at bottom is used exclusively for school purposes
+
+
+You can see it <a href="https://irischinos.github.io/TransparentLogin/">here</a>.
+
+
+
